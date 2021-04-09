@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    background: blueviolet;
+    font-size: 1.2rem;
+    font-family: 'Quicksand', sans-serif;
+    cursor: progress;
+
+}
+
+h1 {
+    color: black;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+}
